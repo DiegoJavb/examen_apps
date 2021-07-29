@@ -11,3 +11,5 @@ A continuación los puntos a tratar
 ## 2. Deben almacenarse los datos en firebase como su BDD
 
 ![image](https://user-images.githubusercontent.com/42130200/127414371-0ac9c597-bf1a-4700-b735-d11e328ecbb5.png)
+![image](https://user-images.githubusercontent.com/42130200/127415101-4cb75be5-e3c5-4a58-9d35-54d85206050e.png)
+
